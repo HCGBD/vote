@@ -1,0 +1,23 @@
+
+img{
+    width: 700px;
+    height: 500px;
+    border: 2px solid blueviolet;
+    box-shadow: 2px 2px 20px blueviolet;
+    border-radius: 50px;
+ 
+}
+
+h1{
+    border: 1px solid blueviolet;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px blueviolet;
+    text-align: center;
+    padding: 5px;
+    background-color: antiquewhite;
+}
+
+.affimg{
+    text-align: center;
+    flex-wrap: wrap;
+}
